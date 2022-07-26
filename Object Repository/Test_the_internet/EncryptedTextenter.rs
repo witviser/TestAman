@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EncryptedTextenter</name>
+   <tag></tag>
+   <elementGuidId>7d8c1cd2-9aa4-4418-8785-ac367cdab962</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;basicBootstrapForm&quot;]/div[1]/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;basicBootstrapForm&quot;]/div[1]/div[1]/input</value>
+      <webElementGuid>5ba4eed7-0c33-49db-96c8-9e0f1655b59a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

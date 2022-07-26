@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alerttext</name>
+   <tag></tag>
+   <elementGuidId>58b1d922-ee99-449f-a17c-8f3bc9d2e251</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;OKTab&quot;]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;OKTab&quot;]/button</value>
+      <webElementGuid>eeefab8a-0790-4968-a9dc-50cc8b9f97ef</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
