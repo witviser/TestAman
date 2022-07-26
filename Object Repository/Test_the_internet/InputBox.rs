@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>InputBox</name>
+   <tag></tag>
+   <elementGuidId>fdec0cda-89f7-4e18-a2d8-2e36eb3debc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@type='number']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@type='number']</value>
+      <webElementGuid>97c4305a-d605-464d-9ce2-359369782e13</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

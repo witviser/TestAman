@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://semantic-ui.com/modules/dropdown.html#/examples'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert'</initValue>
+      <name>alert</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://demo.automationtesting.in/'</initValue>
+      <name>demo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>demo site</description>
+      <initValue>'http://the-internet.herokuapp.com/'</initValue>
+      <name>alloption</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
