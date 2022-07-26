@@ -17,6 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+println(abc)
+
 // xpath = //tagname [@atribute = 'value']
 /*
  * WebUI.openBrowser(GlobalVariable.alloption)
@@ -34,17 +36,13 @@ import org.openqa.selenium.Keys as Keys
  * }
  */
 
-n = 22
-
-count = 0
-
-while (n!= 0)
-{
-n/= 10
-count ++
-}
-println(count)
-
+/*
+ * n = 22
+ * 
+ * count = 0
+ * 
+ * while (n!= 0) { n/= 10 count ++ } println(count)
+ */
 /*
  * abc = (int)Math.floor(Math.log10(n) + 1);
  * 
